@@ -1,8 +1,6 @@
 // WILDER WORLD NAME GENERATOR
 // by Gaio : https://github.com/miquael
 //
-// run: node index.js
-// -----------------------------------------
 // *NOTES: 
 // - python scrape for list: https://www.thebump.com/b/baby-names-that-start-with-w
 // - python scrape for list:
