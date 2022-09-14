@@ -1,0 +1,12 @@
+{
+  "name": "Wilder-World-Generative-Names",
+  "version": "1.0.0",
+  "description": "generates a random name for a Wilder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
